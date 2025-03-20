@@ -1,4 +1,5 @@
 def main():
+    
     number = float(input("Type a number to see its square: "))
 
     square = number * number
